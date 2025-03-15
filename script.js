@@ -169,8 +169,16 @@ function ShowSkills() {
       name: "Redux",
     },
     {
+      img: "./images/ASP NET.png",
+      name: "ASP .NET MVC",
+    },
+    {
       img: "./images/mysql.png",
       name: "MySql",
+    },
+    {
+      img: "./images/sql server.png",
+      name: "SQL Server",
     },
     {
       img: "./images/github.png",

@@ -583,8 +583,8 @@ header .header-links li:hover div {
 }
 
 .skill-card .skill-card-icon img {
-    width: 90px;
-    height: 90px;
+    width: 100px;
+    height: 100px;
     filter: grayscale(100%);
     transition: all 0.2s ease-in-out;
 }
