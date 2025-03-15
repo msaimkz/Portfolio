@@ -272,6 +272,7 @@ header .header-links li:hover div {
 .hero-second img {
     width: 430px;
     height: 470px;
+    border-radius: 30px;
     transform: rotate(4.30deg);
     transition: all 0.2s linear;
 
